@@ -1,0 +1,3 @@
+[submodule "wasm-c-api"]
+	path = wasm-c-api
+	url = git@github.com:apepkuss/wasm-c-api.git
